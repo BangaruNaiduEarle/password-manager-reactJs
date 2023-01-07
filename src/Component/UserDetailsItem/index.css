@@ -1,0 +1,73 @@
+.list-items {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  border: solid 1px #64748b;
+  border-radius: 6px;
+  padding: 16px;
+  margin-bottom: 10px;
+  width: 260px;
+}
+
+.details-container {
+  display: flex;
+  align-items: center;
+}
+.website-initial-container {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: 20px;
+  border-width: 0px;
+  margin-right: 16px;
+}
+.details-styles {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 0px;
+  margin-bottom: 3px;
+}
+.website-initial {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+}
+.button-container {
+  background-color: transparent;
+  border: solid 0px;
+}
+.delete-button {
+  height: 20px;
+}
+.orange {
+  background-color: #f59e0b;
+}
+
+.darkGreen {
+  background-color: #10b981;
+}
+
+.shaffron {
+  background-color: #f97316;
+}
+
+.lightGreen {
+  background-color: #14b8a6;
+}
+
+.Red {
+  background-color: #b91c1c;
+}
+
+.skyblue {
+  background-color: #0ea5e9;
+}
+.star-password {
+  width: 140px;
+}
